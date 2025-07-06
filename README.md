@@ -40,5 +40,6 @@ Shorten Brooklyn’s minimum stays.
 
 Fix missing data (NaNs).
 
-Expected Impact: +5-10% revenue, +15% occupancy.
+## Expected Impact:
++5-10% revenue, +15% occupancy.
 
