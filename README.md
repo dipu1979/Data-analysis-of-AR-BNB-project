@@ -22,3 +22,23 @@ This project analyzes AirBnB property data to optimize pricing, occupancy, and g
 ## Visualization:
 ![Air_BNB_Project](https://github.com/user-attachments/assets/b88fb783-f02d-4d87-8809-d44409584865)
 
+## Key Insights:
+
+Pricing: Verified listings are cheaper ($28-$41) and more popular. Brooklyn averages $74 vs Manhattan’s $65.
+
+Verification: Verified hosts get more bookings and steady reviews (avg 3.5-4.0).
+
+Locations: Manhattan has competition; Brooklyn offers higher revenue potential.
+
+Amenities: Pet-friendly/kitchen listings get 5-star reviews. Missing rules (NaNs) hurt trust.
+
+## Actions:
+
+Promote verified, budget listings.
+
+Shorten Brooklyn’s minimum stays.
+
+Fix missing data (NaNs).
+
+Expected Impact: +5-10% revenue, +15% occupancy.
+
